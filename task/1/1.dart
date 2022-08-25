@@ -11,8 +11,19 @@ ok
  */
 
 void main(List<String> args) {
-  print(true);
+/*  print(true);
   print(4);
   print("ok");
-  print("dd");
+  print("dd");*/
+
+int x1=4;
+double x2=1.2;
+String x3="ok";
+List x4= [4,3,"ok",true];
+
+print(x1);
+print(x2);
+print(x3);
+print(x4);
+
 }  
